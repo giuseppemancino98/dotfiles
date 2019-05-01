@@ -1,0 +1,11 @@
+URxvt.scrollBar: false
+URxvt.font: xft:Iosevka Term:size=10
+URxvt.internalBorder:   40
+
+st.alpha: 255
+st.font: Iosevka Term-10
+st.internalBorder: 40
+
+XTerm*termName: xterm-256color
+XTerm*faceName: xft:Iosevka Term:size=10
+XTerm.FontDoublesize:false
