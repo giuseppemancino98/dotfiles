@@ -1,7 +1,7 @@
 # dotfiles
 ## i3-gaps
 
-<img src="https://raw.githubusercontent.com/genox997/giuseppemancino98/master/screeshots/1556748696_0011_02.05.2019_.png" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/giuseppemancino98/master/screeshots/1556748696_0011_02.05.2019_.png" style="max-width:100%;">
 
 <ul>
 <li><strong>Font</strong>: Iosevka </li>
